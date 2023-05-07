@@ -1,0 +1,11 @@
+main{
+    height: 110vh;
+}
+nav img{
+    width: 50px;
+}
+footer{
+    padding: 10px 0;
+    color: black;
+    margin-top: 60px;
+}
