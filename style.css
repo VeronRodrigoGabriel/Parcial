@@ -1,13 +1,15 @@
 body{
-    margin: 0;
-    background-color: lightgray;
+    background-image: url(/img/Fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 117vh;
 }
 nav img{
     width: 50px;
 }
 footer{
-    background-color: ;
     padding: 10px 0;
-    color: white;
-    margin-top: 40px;
+    color: black;
+    margin-top: 60px;
 }
