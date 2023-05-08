@@ -1,12 +1,8 @@
-main{
-    height: 220vh;
-}
 video{
     width: 100%;
     height: 55%;
 }
 .Sobremi{
-    height: 110vh;
     background-color: black;
     color: white;
 }
@@ -19,5 +15,4 @@ nav img{
 footer{
     padding: 10px 0;
     color: black;
-    margin-top: 60px;
 }
