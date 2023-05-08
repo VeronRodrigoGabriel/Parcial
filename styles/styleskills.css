@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    background-image: url(/img/fondoskills.jpg);
+    background-position: center;
+    height: 185vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav img{
+    width: 50px;
+}
+footer{
+    padding: 5px 0;
+    color: black;
+}
