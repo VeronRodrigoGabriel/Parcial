@@ -29,7 +29,10 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="container">
-            <img src="/img/logo.png" alt="" />
+            <div class="d-flex">
+              <img src="/img/logo.png" alt="" />
+              <h4 class="rounded bg-dark text-white p-1 m-1">Portfolio</h4>
+            </div>
           </div>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-0 mb-lg-0">
@@ -63,17 +66,15 @@
     <main>
       <article>
         <div class="position-relative">
-          <video onloadedmetadata="this.muted=true" autoplay loop>
+          <video autoplay="true" muted="true" loop="true">
             <source
               src="/videos/Live Wallpaper 4K Wonderful Landscape(2K_HD).webm"
             />
           </video>
           <section class="position-absolute top-50 start-50 translate-middle">
-            <div>
               <h1 class="text-light">Veron Rodrigo Gabriel</h1>
               <h2 class="text-light">
                 Desarrolador de Software Multiplataforma
-              </h2>
             </div>
           </section>
         </div>
@@ -130,11 +131,17 @@
     </main>
     <footer class="position-relative bg-primary h-100">
       <div class="top-50 end-50 d-flex justify-content-around">
-        <h6 class="text-center">©VeronRodrigo</h6>
+        <h6 class="text-center p-3 text-black">©VeronRodrigo</h6>
         <div class="d-flex justify-content-around">
           <div>
-            <h6>Correo: veronrodrigo98@gmail.com</h6>
-            <h6>Teléfono: +543704216011</h6>
+            <div class="d-flex">
+              <img src="/icon/envelope.svg" alt="" />
+              <h6 class="m-1 p-1 text-black">veronrodrigo98@gmail.com</h6>
+            </div>
+            <div class="d-flex">
+              <img src="/icon/telephone-fill.svg" alt="" />
+              <h6 class="m-1 text-black">+543704216011</h6>
+            </div>
           </div>
         </div>
       </div>

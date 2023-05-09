@@ -3,7 +3,6 @@ body{
 }
 video{
     width: 100%;
-    height: 55%;
 }
 .Sobremi{
     background-color: black;
@@ -14,8 +13,4 @@ video{
 }
 nav img{
     width: 50px;
-}
-footer{
-    padding: 5px 0;
-    color: black;
 }
