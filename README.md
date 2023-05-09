@@ -1,19 +1,29 @@
 # Mi Portfolio
 
- Esta página cotiene mi información. Esta dividida en tres modulos: Inicio, Proyecto y Habilidades.
+Esta página contiene mi información. Esta dividida en tres modulos: Inicio, Proyecto y Habilidades.
 
- ## Imagenes de la página:
+## Imagenes de la página:
+
+### Inicio
 
  <p>
-    <img src = "\img\readme\inicio.png"></img>
- </p>
- <p>
-    <img src = "\img\readme\sobremi.png"></img>
- </p>
-<p>
-    <img src = "\img\readme\proyecto.png"></img>
- </p>
-<p>
-    <img src = "\img\readme\habilidades.png"></img>
+    <img height="300" src = "./img/readme/inicio.png"></img>
  </p>
 
+### Sobre mi
+
+ <p>
+    <img height="300" src = "./img/readme/sobremi.png"></img>
+ </p>
+
+### Proyectos
+
+<p>
+    <img height="300" src = "./img/readme/proyectos.png"></img>
+ </p>
+
+### Habilidades
+
+<p>
+    <img height="300" src = "./img/readme/habilidades.png"></img>
+ </p>
