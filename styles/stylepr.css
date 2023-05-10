@@ -18,11 +18,26 @@ nav img{
 }
 @media (max-width: 1000px) {
     main{
-        height: 250vh;
+        height: 300vh;
     }
       }
-      @media (max-width: 450px) {
+      @media (max-width: 912px) {
         main{
-            height: 300vh;
+            height: 150vh;
         }
           }
+          @media (max-width: 540px) {
+            main{
+                height: 320vh;
+            }
+              }
+      @media (max-width: 350px) {
+        main{
+            height: 450vh;
+        }
+          }
+          @media (max-width: 280px) {
+            main{
+                height: 350vh;
+            }
+              }
