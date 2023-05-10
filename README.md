@@ -1,6 +1,6 @@
 # Mi Portfolio
 
-Esta página contiene mi información. Esta dividida en tres modulos: Inicio, Proyecto y Habilidades.
+Esta página contiene mi información. Esta dividida en tres modulos: Inicio, Proyecto y Habilidades. En los cuales describo mis habilidades, expongo mis proyectos y los conocimientos que he adquirido a lo largo de mi trayectoria como desarrollador de software multiplataforma.
 
 ## Imagenes de la página:
 

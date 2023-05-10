@@ -2,9 +2,9 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 main{
-    background-image: url(/img/fondo.jpg);
+    background-color: black;
     width: 100%;
-    height: 160vh;
+    height: 200vh;
 }
 nav img{
     width: 50px;
@@ -12,3 +12,17 @@ nav img{
 .git1 img{
     width: 30px;
 }
+.sinimg{
+    width: 100%;
+    height: 230px;
+}
+@media (max-width: 1000px) {
+    main{
+        height: 250vh;
+    }
+      }
+      @media (max-width: 450px) {
+        main{
+            height: 300vh;
+        }
+          }
