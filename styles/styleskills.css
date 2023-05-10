@@ -4,10 +4,20 @@ body{
 main{
     background-image: url(/img/fondoskills.jpg);
     background-position: center;
-    height: 230vh;
+    height: 210vh;
     background-repeat: no-repeat;
     background-size: cover;
 }
 nav img{
     width: 50px;
 }
+@media (max-width: 1000px) {
+main{
+    height: 300vh;
+}
+  }
+  @media (max-width: 450px) {
+    main{
+        height: 350vh;
+    }
+      }
